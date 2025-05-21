@@ -46,7 +46,7 @@ export default function Products() {
 
     const showData = Products.map((product, index) => (
         <tr key={index}>
-            <td>{index}</td>
+            <td>{index + 1}</td>
             <td>{product.title}</td>
             <td>{product.description}</td>
             <td>
