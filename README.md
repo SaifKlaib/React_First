@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+The Backend is a pre-build api using Laravel
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
